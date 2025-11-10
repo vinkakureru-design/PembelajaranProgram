@@ -10,7 +10,7 @@ class Program
         //Input.InputUser();
         //KasirToko.LoginMenu();
 
-        LoginSewaJasa.LoginMenu();
+        LoginSewaJasa.TampilkanLoginMenu();
 
     }
 }
