@@ -1,4 +1,5 @@
 ﻿using PembelajaranCsharp;
+using SewaJasa;
 using System;
 
 class Program
@@ -7,8 +8,9 @@ class Program
     {
         //TipeData.TipeDataDasar();
         //Input.InputUser();
-        KasirToko.LoginMenu();
+        //KasirToko.LoginMenu();
 
+        LoginSewaJasa.LoginMenu();
 
     }
 }
